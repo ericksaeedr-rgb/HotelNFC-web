@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hotel>
+  <informacion>
+    <nombre>Nexus Grand Luxury Hotel</nombre>
+    <sistema>NFC Access Management OS v2.4</sistema>
+    <totalPisos>3</totalPisos>
+  </informacion>
+  <habitaciones>
+    <habitacion id="101">
+      <numero>101</numero>
+      <piso>1</piso>
+      <tipo>Suite Ejecutiva</tipo>
+      <precio>180.00</precio>
+      <estado>disponible</estado>
+      <capacidad>2</capacidad>
+      <caracteristicas>Cama King, Vista al Jardín, Smart TV 4K, Climatización Inteligente, Baño Privado</caracteristicas>
+      <tarjetaNFC></tarjetaNFC>
+      <huesped></huesped>
+      <fechaEntrada></fechaEntrada>
+      <fechaSalida></fechaSalida>
+    </habitacion>
+
+    <habitacion id="102">
+      <numero>102</numero>
+      <piso>1</piso>
+      <tipo>Habitación Deluxe</tipo>
+      <precio>120.00</precio>
+      <estado>ocupada</estado>
+      <capacidad>2</capacidad>
+      <caracteristicas>Cama Queen, Minibar, Balcón Privado, Wi-Fi 6, Caja Fuerte</caracteristicas>
+      <tarjetaNFC>A3:4F:9C:12</tarjetaNFC>
+      <huesped>Valeria Morales</huesped>
+      <fechaEntrada>2026-09-28</fechaEntrada>
+      <fechaSalida>2026-10-02</fechaSalida>
+    </habitacion>
+
+    <habitacion id="103">
+      <numero>103</numero>
+      <piso>1</piso>
+      <tipo>Habitación Estándar</tipo>
+      <precio>85.00</precio>
+      <estado>en-limpieza</estado>
+      <capacidad>1</capacidad>
+      <caracteristicas>Cama Doble, Escritorio de Trabajo, Cafetera Nespresso, Smart TV</caracteristicas>
+      <tarjetaNFC></tarjetaNFC>
+      <huesped></huesped>
+      <fechaEntrada></fechaEntrada>
+      <fechaSalida></fechaSalida>
+    </habitacion>
+
+    <habitacion id="201">
+      <numero>201</numero>
+      <piso>2</piso>
+      <tipo>Suite Ejecutiva</tipo>
+      <precio>195.00</precio>
+      <estado>disponible</estado>
+      <capacidad>3</capacidad>
+      <caracteristicas>Cama King + Sofá Cama, Terraza Panorámica, Sonido Bluetooth, Jacuzzi</caracteristicas>
+      <tarjetaNFC></tarjetaNFC>
+      <huesped></huesped>
+      <fechaEntrada></fechaEntrada>
+      <fechaSalida></fechaSalida>
+    </habitacion>
+
+    <habitacion id="202">
+      <numero>202</numero>
+      <piso>2</piso>
+      <tipo>Habitación Deluxe</tipo>
+      <precio>135.00</precio>
+      <estado>ocupada</estado>
+      <capacidad>2</capacidad>
+      <caracteristicas>Cama Queen, Vista Panorámica a la Ciudad, Minibar de Lujo, Ducha de Lluvia</caracteristicas>
+      <tarjetaNFC>B7:81:40:5E</tarjetaNFC>
+      <huesped>Carlos Mendoza</huesped>
+      <fechaEntrada>2026-09-27</fechaEntrada>
+      <fechaSalida>2026-09-30</fechaSalida>
+    </habitacion>
+
+    <habitacion id="203">
+      <numero>203</numero>
+      <piso>2</piso>
+      <tipo>Habitación Estándar</tipo>
+      <precio>90.00</precio>
+      <estado>disponible</estado>
+      <capacidad>2</capacidad>
+      <caracteristicas>Dos Camas Individuales, Escritorio, Baño Completo, Wi-Fi 6</caracteristicas>
+      <tarjetaNFC></tarjetaNFC>
+      <huesped></huesped>
+      <fechaEntrada></fechaEntrada>
+      <fechaSalida></fechaSalida>
+    </habitacion>
+
+    <habitacion id="301">
+      <numero>301</numero>
+      <piso>3</piso>
+      <tipo>Suite Presidencial</tipo>
+      <precio>380.00</precio>
+      <estado>disponible</estado>
+      <capacidad>4</capacidad>
+      <caracteristicas>Penthouse Piso Completo, Piscina Privada, Mayordomo Digital, Cama Super King, Bar de Autor</caracteristicas>
+      <tarjetaNFC></tarjetaNFC>
+      <huesped></huesped>
+      <fechaEntrada></fechaEntrada>
+      <fechaSalida></fechaSalida>
+    </habitacion>
+
+    <habitacion id="302">
+      <numero>302</numero>
+      <piso>3</piso>
+      <tipo>Suite Ejecutiva</tipo>
+      <precio>210.00</precio>
+      <estado>en-limpieza</estado>
+      <capacidad>2</capacidad>
+      <caracteristicas>Cama King, Sauna Privado, Sala de Estar, Sistema Domótico Integral</caracteristicas>
+      <tarjetaNFC></tarjetaNFC>
+      <huesped></huesped>
+      <fechaEntrada></fechaEntrada>
+      <fechaSalida></fechaSalida>
+    </habitacion>
+  </habitaciones>
+</hotel>
