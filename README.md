@@ -37,3 +37,7 @@ Primero se instala Flask con pip install flask. Después se ejecuta python app.p
 ¿Cuál es el objetivo principal?
 
 Crear un sistema de administración hotelera que permita controlar habitaciones y accesos mediante tecnología NFC, con un simulador de cerradura, registro de auditoría y una futura integración con Arduino.
+
+Declaración de uso de inteligencia artificial:
+
+Durante el desarrollo del proyecto se utilizó inteligencia artificial como herramienta de apoyo, específicamente Antigravity utilizando los modelos Gemini 3.8 y Claude Opus 4.6. Estas herramientas fueron utilizadas para apoyar la generación y organización del código, solucionar errores, mejorar funciones y proponer ideas para el funcionamiento del sistema. El equipo revisó, adaptó y modificó las sugerencias generadas por la IA para integrarlas al proyecto Nexus Hotel NFC y comprender su funcionamiento.
